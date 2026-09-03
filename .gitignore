@@ -1,0 +1,11 @@
+*.pth
+*.onnx
+*.onnx.data
+*.npy
+*.zip
+data/
+checkpoints/
+kaggle.json
+.git_creds.json
+__pycache__/
+.ipynb_checkpoints/

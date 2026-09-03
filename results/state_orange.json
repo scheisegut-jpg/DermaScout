@@ -1,0 +1,17 @@
+{
+  "class": "precancer",
+  "label": "Pre-cancerous",
+  "action": "Get this checked within a few weeks.",
+  "tier": 2,
+  "probs": {
+    "healthy": 0.02,
+    "mole": 0.09,
+    "precancer": 0.77,
+    "cancer": 0.12
+  },
+  "model_doubt": 0.19,
+  "image_doubt": 0.16,
+  "blurry": false,
+  "status": "ok",
+  "heatmap_png_base64": ""
+}

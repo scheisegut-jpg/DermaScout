@@ -1,0 +1,17 @@
+{
+  "class": "cancer",
+  "label": "Skin cancer",
+  "action": "See a doctor soon.",
+  "tier": 3,
+  "probs": {
+    "healthy": 0.02,
+    "mole": 0.11,
+    "precancer": 0.19,
+    "cancer": 0.68
+  },
+  "model_doubt": 0.14,
+  "image_doubt": 0.31,
+  "blurry": false,
+  "status": "ok",
+  "heatmap_png_base64": ""
+}

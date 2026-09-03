@@ -1,0 +1,17 @@
+{
+  "class": "mole",
+  "label": "Benign mole",
+  "action": "Likely harmless. Recheck in 3 months if it changes.",
+  "tier": 1,
+  "probs": {
+    "healthy": 0.03,
+    "mole": 0.88,
+    "precancer": 0.06,
+    "cancer": 0.03
+  },
+  "model_doubt": 0.12,
+  "image_doubt": 0.14,
+  "blurry": false,
+  "status": "ok",
+  "heatmap_png_base64": ""
+}

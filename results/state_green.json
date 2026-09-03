@@ -1,0 +1,17 @@
+{
+  "class": "healthy",
+  "label": "Healthy skin",
+  "action": "Nothing detected. Recheck if something appears.",
+  "tier": 0,
+  "probs": {
+    "healthy": 0.91,
+    "mole": 0.05,
+    "precancer": 0.03,
+    "cancer": 0.01
+  },
+  "model_doubt": 0.08,
+  "image_doubt": 0.11,
+  "blurry": false,
+  "status": "ok",
+  "heatmap_png_base64": ""
+}

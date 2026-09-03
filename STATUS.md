@@ -1,0 +1,8 @@
+# DermaScout — Build Status
+
+## Step 1 — Data acquisition: COMPLETE (02 Sep 14:30 IST)
+- HAM10000: 10,015 images / 7,470 lesions / 8,659 trainable (nv, akiec, mel, bcc)
+- PAD-UFES-20: 2,298 images / 1,373 patients / 1,641 lesions / 1,871 trainable (NEV, ACK, MEL, BCC)
+- All 7 HAM and 6 PAD class counts match published values exactly
+- Zero rows missing an image; zero placeholder-string group keys; all image IDs unique
+- Note: Kaggle HAM archive ships every image twice, byte-identical (deduped at extraction)
