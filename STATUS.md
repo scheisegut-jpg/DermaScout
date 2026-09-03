@@ -11,3 +11,8 @@
 - 2,299 crops: 1,128 PAD phone + 1,171 HAM dermoscopic
 - surgical ink and dark blobs filtered
 - 1,944 unique groups, zero UNKNOWN — leakage-safe
+
+## Step 3 — Master CSV (03 Sep 14:26 IST)
+- 13,100 rows, 4 classes
+- zero null keys
+- two domains
