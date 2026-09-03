@@ -34,3 +34,9 @@
 - split 8998 train / 1259 val / 2572 test
 - all 4 classes and both domains present in every split
 - cancer test set = 538 images
+
+## Step 4 — Split done (03 Sep 15:20 IST)
+- 12,829 images deduplicated, 0 unreadable, 1 cross-group duplicate merged
+- split 8998 train / 1259 val / 2572 test
+- all 4 classes and both domains present in every split
+- cancer test set = 538 images
