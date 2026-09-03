@@ -28,3 +28,9 @@
 ## Step 4a — Dedup (03 Sep 15:13 IST)
 - 12,829 images hashed, 0 unreadable
 - 1 cross-group duplicate cluster merged
+
+## Step 4 — Split done (03 Sep 15:17 IST)
+- 12,829 images deduplicated, 0 unreadable, 1 cross-group duplicate merged
+- split 8998 train / 1259 val / 2572 test
+- all 4 classes and both domains present in every split
+- cancer test set = 538 images
