@@ -6,3 +6,8 @@
 - All 7 HAM and 6 PAD class counts match published values exactly
 - Zero rows missing an image; zero placeholder-string group keys; all image IDs unique
 - Note: Kaggle HAM archive ships every image twice, byte-identical (deduped at extraction)
+
+## Step 2 — Healthy class (03 Sep 14:17 IST)
+- 2,299 crops: 1,128 PAD phone + 1,171 HAM dermoscopic
+- surgical ink and dark blobs filtered
+- 1,944 unique groups, zero UNKNOWN — leakage-safe
