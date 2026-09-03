@@ -13,7 +13,7 @@
 - 1,944 unique groups, zero UNKNOWN — leakage-safe
 
 ## Step 3 — Master CSV (03 Sep 14:26 IST)
-- 12829 rows, 4 classes
+- 13,100 rows, 4 classes
 - zero null keys
 - two domains
 
@@ -40,3 +40,8 @@
 - split 8998 train / 1259 val / 2572 test
 - all 4 classes and both domains present in every split
 - cancer test set = 538 images
+
+## Step 4 — Split done (03 Sep 15:23 IST)
+- 12,829 images deduplicated, 1 duplicate merged
+- split 8998 train / 1259 val / 2572 test
+- all 4 classes and both domains in every split
