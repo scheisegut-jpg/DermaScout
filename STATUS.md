@@ -13,6 +13,6 @@
 - 1,944 unique groups, zero UNKNOWN — leakage-safe
 
 ## Step 3 — Master CSV (03 Sep 14:26 IST)
-- 13,100 rows, 4 classes
+- 12829 rows, 4 classes
 - zero null keys
 - two domains
