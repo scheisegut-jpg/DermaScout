@@ -45,3 +45,9 @@
 - 12,829 images deduplicated, 1 duplicate merged
 - split 8998 train / 1259 val / 2572 test
 - all 4 classes and both domains in every split
+
+## Step 4 — Leakage-safe split FROZEN (03 Sep 15:26 IST)
+- zero group overlap across train/val/test
+- zero identical-image overlap across splits
+- split signature 10fc0ffe2f2d1358 — frozen, do not regenerate
+- train 8998 / val 1259 / test 2572
