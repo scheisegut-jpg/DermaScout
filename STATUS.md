@@ -16,3 +16,7 @@
 - 13,100 rows, 4 classes
 - zero null keys
 - two domains
+
+## Step 4a — Dedup (03 Sep 14:59 IST)
+- 12,829 images hashed, 0 unreadable
+- 1 cross-group duplicate cluster merged
